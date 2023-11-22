@@ -1,4 +1,4 @@
-# Project Title
+# TypeScript
 
 Fullstack Developer Bootcamp - TypeScript Learning
 
