@@ -1,7 +1,7 @@
 # TypeScript
 <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
 
-Fullstack Developer Bootcamp - TypeScript Learning
+Fullstack Developer Bootcamp [@GoIT](https://goit.global/us/) - ![Alt text](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white) Module
 
 ## Overview
 
